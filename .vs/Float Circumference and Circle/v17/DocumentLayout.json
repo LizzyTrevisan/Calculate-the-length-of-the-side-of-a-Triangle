@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leizi\\source\\repos\\Float Circumference and Circle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2BA8B46-3EA8-46F4-823D-9A076CBC1B06}|Float Circumference and Circle.vcxproj|C:\\Users\\leizi\\source\\repos\\Float Circumference and Circle\\Float Circumference and Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E2BA8B46-3EA8-46F4-823D-9A076CBC1B06}|Float Circumference and Circle.vcxproj|solutionrelative:Float Circumference and Circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Float Circumference and Circle.cpp",
+              "DocumentMoniker": "C:\\Users\\leizi\\source\\repos\\Float Circumference and Circle\\Float Circumference and Circle.cpp",
+              "RelativeDocumentMoniker": "Float Circumference and Circle.cpp",
+              "ToolTip": "C:\\Users\\leizi\\source\\repos\\Float Circumference and Circle\\Float Circumference and Circle.cpp",
+              "RelativeToolTip": "Float Circumference and Circle.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-12T02:36:47.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
